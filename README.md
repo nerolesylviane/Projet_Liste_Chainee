@@ -1,4 +1,4 @@
-# Implémentation d'une Liste Doublement Chaînée
+# Implémentation d'une Liste Doublement Chaînee t
 
 ## Introduction
 Ce projet présente une implémentation en langage C d'une **Liste Doublement Chaînée** (Doubly Linked List). C'est une structure de données où chaque nœud possède une référence vers le nœud suivant et le nœud précédent.
